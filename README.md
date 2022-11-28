@@ -1,6 +1,6 @@
 # link-prediction-graphsage
 
-The project uses pairwise learning for neural link prediction(PLNLP) framework for predicting drug-drug interactions(DDI) on OGB-ddi dataset.
+The project uses pairwise learning for neural link prediction(PLNLP) framework for predicting drug-drug interactions(DDI) on OGB-ddi dataset. Hit@20 scores of 0.8787
 
 ## Key points
 1. Encoder : Graph Neural Netwrom with graphSAGE layers.
