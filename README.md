@@ -11,7 +11,9 @@ The project uses pairwise learning for neural link prediction(PLNLP) framework f
 
 
 ## Loss Curve
-![plot](img/loss-curve-ddi.png)
+<img src="img/loss-curve-ddi.png" width="500"/>
+
 
 ## Metric Curve
-![plot](img/Hits@20-curve-ddi.png)
+<img src="img/Hits@20-curve-ddi.png" width="500"/>
+
